@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="purchase.email_template_edi_purchase" model="mail.template">
+            <field name="name">سفارش خرید: ارسال استعلام</field>
+        </record>
+
+        <record id="purchase.email_template_edi_purchase_done" model="mail.template">
+            <field name="name">سفارش خرید: ارسال سفارش خرید</field>
+        </record>
+
+        <record id="purchase.email_template_edi_purchase_reminder" model="mail.template">
+            <field name="name">سفارش خرید: یادآوری به تامین‌کننده</field>
+        </record>
+    </data>
+</odoo>
