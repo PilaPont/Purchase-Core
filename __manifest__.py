@@ -1,14 +1,14 @@
 {
-    'name': 'Purchases Core',
-    'version': '14.0.0.1.1.0+210609',
+    'name': 'Purchase Core',
+    'version': '14.0.0.1.2.0+210613',
     'description': """
-            This module converts original purchase demo and data records into Farsi.
+     This module modifies some properties of Purchase, including:
+    - Converts original CRM demo and data records into Farsi.
     """,
     'author': "Kenevist Developers, Maryam Kia",
     'website': "https://www.kenevist.ir",
     'license': 'OPL-1',
     'category': 'Localization',
-
     'depends': ['purchase'],
     'data': [
         'data/mail_template_data.xml',
