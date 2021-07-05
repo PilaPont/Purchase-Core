@@ -3,8 +3,8 @@
     'version': '14.0.0.1.1.1+210705',
     'description': """
      This module modifies some properties of Purchase, including:
-            _ Convert original purchase demo and data records into Farsi
-            _ Add monetary widget to price_unit
+            - Convert original purchase demo and data records into Farsi
+            - Add monetary widget to price_unit
     """,
     'author': "Kenevist Developers, Maryam Kia",
     'website': "https://www.kenevist.ir",
